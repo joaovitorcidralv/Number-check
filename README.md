@@ -1,2 +1,2 @@
 # Number-check
-Informe números para levantar dados: somar, calcular média, maior e o menor número. Interativo com array, função e validação de dados.
+Exercício de estudo básico com os principais conceitos da linguagem de programção JavaScript, um aprofundamento de práticas aprendidas em curso com array, função e validação de dados.
